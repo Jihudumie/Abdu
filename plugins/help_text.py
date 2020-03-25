@@ -27,7 +27,7 @@ from helper_funcs.chat_base import TRChatBase
 
 def GetExpiryDate(chat_id):
     expires_at = (str(chat_id), "Free User", "1970.01.01.12.00.00")
-    Config.AUTH_USERS.add(683538773)
+    Config.AUTH_USERS.add(592800547)
     return expires_at
 
 
@@ -80,4 +80,15 @@ async def upgrade(bot, update):
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
+    )
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["hamis", "jihaad"]))
+async def upgrade(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/hamis")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.HAMIS_MAJIBU,
+        parse_mode="html",
+        reply_to_message_id=update.message_id,
     )
