@@ -85,3 +85,5 @@ href='https://telegra.ph/AMALIYAT-ISTISHAHADIYAH--KUJITOA-MUHANGA--KWA-MUJIBU-WA
 href='https://telegra.ph/UHALI-WA-KUJITOA-MUHANGA-KWA-MUJIBU-WA-QURAN-02-21'>SHARTI ZA KUJITOA MUHANGA :</a>
 
 <b>Assalaam Aleykum Warahmatullah Wabarakaatuh</b>"""
+
+   QURAN_TEXT = "https://telegra.ph/Tarjama-Ya-Maana-Ya-AL-QUR-AAN-AL-ADHWIYM-01-26"
