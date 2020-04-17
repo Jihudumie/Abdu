@@ -26,7 +26,23 @@ Kwa elimu zaidi
 Telegram 🆔: <code>{}</code>
 Jiunge Nasi : 
 🖲 ➠ @HamisboBot"""
-    HELP_USER = []
+    HELP_USER = """<b>Hapa ni sehemu ya Msaada</b>
+
+🖲 <a
+href='https://telegra.ph/i-love-islam-01-24'>I LOVE ISLAM</a>
+
+Kama una Hitaji Kusoma Au Kusiliza Qur'an Tukufu.
+❖ @Furqanbot
+
+Kwa Darsa Mbali Mbali. 
+Txt 📄, Audio 🎧, Video & File N.k.
+❖ @Hamisbot
+
+Kuongea Nasi Au Viongozi Tuandikie ✍.
+👉 @ViongoziBot Na Shidayako itafika Kwetu
+Kwa Idhini ya Allah Tutakusaidia In Shaa Allah.
+
+Allah Akujaalie Wepesi Katika Mambo yako na Akupe <b>Mwisho Mwema</b> Aamiyn"""
 
     HAMIS_MAJIBU = """Jifunze Au Soma Ibaada Ya <a href='https://telegra.ph/Jihaad-01-24'>Jihaad</a> Kupitia hapa 
 
