@@ -26,7 +26,7 @@ Kwa elimu zaidi
 Telegram 🆔: <code>{}</code>
 Jiunge Nasi : 
 🖲 ➠ @HamisboBot"""
-    HELP_USER = "[]"
+    HELP_USER = []
 
     HAMIS_MAJIBU = """Jifunze Au Soma Ibaada Ya <a href='https://telegra.ph/Jihaad-01-24'>Jihaad</a> Kupitia hapa 
 
