@@ -41,6 +41,7 @@ async def help_user(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
+        keyboard = [[InlineKeyboardButton("Analysis of Algorithms", callback_data='Analysis of Algorithmsgfg2')
     )
 
 
