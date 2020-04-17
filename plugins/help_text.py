@@ -41,6 +41,10 @@ async def help_user(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
+        ikeyboard = [
+                        pyrogram.InlineKeyboardButton(
+                            "MAJALIBIO",
+                              callback_data="majalibio1")
     )
 
 
