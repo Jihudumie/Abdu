@@ -1,20 +1,12 @@
 class Translation(object):
     START_TEXT = "Hello,"
-    HELP_USER = """ /histolia Gusa Command Unayo itaka
+    HELP_USER = """Gusa Command Unayo itaka
 
-In Shaa Allaah Utatumiwa Kilichopo.
 
-/quranswahili 
-Qur'an Audio Lugha Swahili
+/quranswahili | /tafsir
 
-/tafsir
-Tafsir ya Qur'an
-👇
-/tawhiyd
-👇
-/masomomhimu
+/tawhiyd | /masomomhimu
 
----------------------------------
 /nassor_bachu |  /mselemu
 
 /mazoezi  |   /kuogelea
@@ -39,7 +31,7 @@ Tafsir ya Qur'an
 
 /nguzozaswalah   |   /fiqh
 
-/lugha   |   /udhu
+/lugha | /udhu | /histolia 
 
 /videozadawla1   |   /swalah
 
@@ -78,7 +70,8 @@ Tafsir ya Qur'an
 /upload ⬆️   |   /tafuta 🔍 """
     HAMIS_MAJIBU = "nina /hamis jaribu kujifunza."
     ELIMU_TXT = """
-UTANGULIZI 
+<b>UTANGULIZI</b> 
+
 Sifa njema anazistahiki Allaah, na rehema na amani zimfikie Bwana wetu, 
 Mtume wetu Muhammad, kipenzi chetu na Mtume wa Allaah. 
 Baada ya hayo, jua ndugu yangu Muislamu, Allaah Akurehemu kwamba 
@@ -113,6 +106,9 @@ kuitekeleza, basi watapata dhambi wote.
 
 <b>4) La Nne:</b> Ni kuwa na uvumilivu juu ya maudhi katika kujifunza elimu 
 hiyo, kuitekeleza na kuihubiri.
+
+
+
 
   <a 
 href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
