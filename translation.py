@@ -69,7 +69,9 @@ class Translation(object):
 
 /upload ⬆️   |   /tafuta 🔍 """
     HAMIS_MAJIBU = "nina /hamis jaribu kujifunza."
-    ELIMU_TXT = """
+    ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
+
+
 <b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b> 
 
 
