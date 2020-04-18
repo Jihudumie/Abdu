@@ -77,9 +77,12 @@ Mtume wetu Muhammad, kipenzi chetu na Mtume wa Allaah.
 Baada ya hayo, jua ndugu yangu Muislamu, Allaah Akurehemu kwamba 
 inatupasa kujifunza masuala manne: 
 
-<b>1) La Kwanza:</b> Ni Elimu. Nayo ni elimu ya <i>1) Kumjua Allaah Mtukufu. 2) 
-Kumjua Mtume Wake (Swalla Allaahu ´alayhi wa sallam). 3) Kuijua dini 
-ya Kiislamu,</i> kwa sababu ilivyo ni kwamba haifai kumuabudu Allaah bila 
+<b>1) La Kwanza:</b> Ni Elimu. Nayo ni elimu ya 
+<i>1) Kumjua Allaah Mtukufu. 
+2) Kumjua Mtume Wake (Swalla Allaahu ´alayhi wa sallam). 
+3) Kuijua dini ya Kiislamu,</i>
+
+ kwa sababu ilivyo ni kwamba haifai kumuabudu Allaah bila 
 ya elimu. Na anayefanya hivyo, basi mwisho wake ni upotofu, na kwa 
 hakika atakuwa amejifananisha na Wakristo katika hilo. 
 
