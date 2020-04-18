@@ -77,21 +77,29 @@ class Translation(object):
 
 
 
-<a 
-href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>   <a
- href='https://telegra.ph/Tawhiyd-01-24'>❖ TAWHIYD 🎯</a>
+📖 <a 
+href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
 
-<a href='https://telegra.ph/Aqiydah-06-21'>❖ 🅰QIYDAH</a>  <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>❖ FIQH</a>
+📖 <a href='https://telegra.ph/Sifa-Ya-Swalah-03-08'>Sifa Ya Swalah Ya Mtume (Swalla Allaahu 'Alayhi Wa Aalihi Wa Sallam)</a>
 
-<a href='https://telegra.ph/Manhaj-06-18'>❖ ⓂANHAJ</a>  <a href='https://telegra.ph/Tabia-Njema-06-09-2'>❖ TABIA NJEMA</a></a>
-<a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>❖ Masharti Ya Shahaad Na Mambo Yake</a>  
-<a href='https://telegra.ph/Duaa-Na-Adkhaar-01-24'>❖ Dua Na Adkhaar 👅</a>
+📖 <a href='Swalaah – Kuwajibika Na Fadhila Zake'>Swalaah – Kuwajibika Na Fadhila Zake</a>
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+   ❖ <a
+href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
+
+❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>  ❖ <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>
+
+❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>
+❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Masharti Ya Shahaad Na Mambo Yake</a>  
+❖ <a href='https://telegra.ph/Duaa-Na-Adkhaar-01-24'>Dua Na Adkhaar 👅</a>
 
        
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
+
 ✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
 
-✿ <i><a href='https://telegra.ph/HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI-09-12'>HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI</a></i>
+✿ <i><a href='https://telegra.ph/HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI-09-12'>HIMIZO LA UISLAM KUHUSU UTAFUTAJI RIZKI NA UCHUMI</a></i>
 
 ✿ <i><a href='https://telegra.ph/Kazi-Katika-Uislam-09-12'>Kazi Katika Uislam</a></i>
 
@@ -105,13 +113,13 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>   <a
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
-  <a 
-href='https://telegra.ph/Ramadhaan-Swawm-01-27'>❖ RAMADHAN 🌙</a>
+❖ <a 
+href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN 🌙</a>
 
-  <a
-href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>❖ Swahiyh Fiqhis-Sunnah</a>  
+❖ <a
+href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>  
 
-  <a
-href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>❖ NGUZO ZA SWALAH</a>
+❖ <a
+href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
 
 """
