@@ -13,8 +13,6 @@ class Config(object):
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
     #For Ban
     BANNED_USERS = []
-    # the download location, where the HTTP Server runs
-    DOWNLOAD_LOCATION = "./DOWNLOADS"
     # Telegram maximum file upload size
     MAX_FILE_SIZE = 50000000
     TG_MAX_FILE_SIZE = 1572864000
