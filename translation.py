@@ -89,9 +89,20 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>   <a
 
        
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
-  ✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
-  ✿ <i><a href='https://telegra.ph/HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI-09-12'>HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI</a></i>
+✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
 
+✿ <i><a href='https://telegra.ph/HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI-09-12'>HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI</a></i>
+
+✿ <i><a href='https://telegra.ph/Kazi-Katika-Uislam-09-12'>Kazi Katika Uislam</a></i>
+
+✿ <i><a href='https://telegra.ph/HADHI-YA-KAZI-09-12'>HADHI YA KAZI</a></i>
+
+✿ <i><a href='https://telegra.ph/KAZI-ZILIZOHARAMISHWA-09-12'>KAZI ZILIZOHARAMISHWA</a></i>
+
+✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MFANYAKAZI-MUISLAM-09-12'>SIFA NZURI ZA MFANYAKAZI MUISLAM</a></i>
+
+✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
   <a 
