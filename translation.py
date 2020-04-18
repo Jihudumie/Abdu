@@ -80,12 +80,12 @@ Tafsir ya Qur'an
     ELIMU_TXT = """
 [SWALAH 🕯](https://telegra.ph/Swalah-01-27)
 
-        <br>UDHU<br>
+        <br>UDHU</br>
  
-[Swahiyh Fiqhis-Sunnah](https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27)
 
-[NGUZO ZA SWALAH](https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27)
+<a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>
 
-[TAWHIYD 🎯](https://telegra.ph/Tawhiyd-01-24)
+<a href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
 
+<a href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
  """
