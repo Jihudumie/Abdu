@@ -13,4 +13,7 @@ class Config(object):
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
     #For Ban
     BANNED_USERS = []
-    
+    # proxy for accessing youtube-dl in GeoRestricted Areas
+    # Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061
+    HTTP_PROXY = os.environ.get("HTTP_PROXY", "")
+
