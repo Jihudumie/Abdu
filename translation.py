@@ -78,14 +78,18 @@ Tafsir ya Qur'an
 /upload ⬆️   |   /tafuta 🔍 """
     HAMIS_MAJIBU = "nina /hamis jaribu kujifunza."
     ELIMU_TXT = """
-[SWALAH 🕯](https://telegra.ph/Swalah-01-27)
+  <a 
+href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
 
-        <br>UDHU</br>
+        <b>UDHU</b>
  
 
-<a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>
+  <a
+ href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>
 
-<a href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
+  <a
+ href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
 
-<a href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
+  <a
+ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
  """
