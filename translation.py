@@ -79,20 +79,18 @@ class Translation(object):
 
   <a 
 href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>   <a
- href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
+ href='https://telegra.ph/Tawhiyd-01-24'>❖ TAWHIYD 🎯</a>
 
-<a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a> <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>
+<a href='https://telegra.ph/Aqiydah-06-21'>❖ 🅰QIYDAH</a>  <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>❖ FIQH</a>
 
-<a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a> <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>
+<a href='https://telegra.ph/Manhaj-06-18'>❖ ⓂANHAJ</a>  <a href='https://telegra.ph/Tabia-Njema-06-09-2'>❖ TABIA NJEMA</a></a>
 
-        <b>UDHU</b>
+       
  
 
   <a
- href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>
-
-  <a
- href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
+ href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>❖ Swahiyh Fiqhis-Sunnah</a>  <a
+ href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>❖ NGUZO ZA SWALAH</a>
 
 
  """
