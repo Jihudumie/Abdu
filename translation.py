@@ -89,9 +89,8 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>   <a
 
        
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
-  <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
-
-<i><a href='https://telegra.ph/HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI-09-12'>HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI</a></i>
+  ✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
+✿ <i><a href='https://telegra.ph/HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI-09-12'>HIMIZO-LA-UISLAM-KUHUSU-UTAFUTAJI-RIZKI-NA-UCHUMI</a></i>
 
 
 
@@ -99,6 +98,7 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>   <a
 
   <a
 href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>❖ Swahiyh Fiqhis-Sunnah</a>  
+
 <a
 href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>❖ NGUZO ZA SWALAH</a>
 
