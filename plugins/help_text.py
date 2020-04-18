@@ -55,3 +55,15 @@ async def hamis(bot, update):
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
     )
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["elimu", "about"]))
+async def elimu(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/elimu")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.ELIMU_TXT,
+        parse_mode="html",
+        disable_web_page_preview=True,
+        reply_to_message_id=update.message_id
+    )
