@@ -64,7 +64,7 @@ disable_web_page_preview=True,
     )
 
 @pyrogram.Client.on_message(pyrogram.Filters.command(["history"]))
-async def history(bot, update):
+async def history_islamic(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/history")
     await bot.send_message(
