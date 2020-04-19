@@ -75,10 +75,11 @@ class Translation(object):
 <b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b> 
 
 
-❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>  ❖ <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>
+❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>.
 
-❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>
-❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Masharti Ya Shahaad Na Mambo Yake</a>  
+❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>.  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.
+
+❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.  
 
 
 📖 <a 
