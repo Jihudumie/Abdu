@@ -138,7 +138,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-❖ <b><a href=''https://telegra.ph/Zakaah-Swadaqah-01-27>Zakaah-Swadaqah</a></b>
+❖ <b><a href='https://telegra.ph/Zakaah-Swadaqah-01-27'>Zakaah-Swadaqah</a></b>
 
  <a href='https://telegra.ph/Kutoa-Zakaah-01-31'>Kutoa Zakaah</a>.
 
