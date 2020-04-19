@@ -75,6 +75,10 @@ class Translation(object):
 <b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b> 
 
 
+❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>  ❖ <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>
+
+❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>
+❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Masharti Ya Shahaad Na Mambo Yake</a>  
 
 
 📖 <a 
@@ -88,12 +92,14 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
    ❖ <a
 href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 
-❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>  ❖ <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>
+<a href='https://telegra.ph/Umuhimu-Na-Fadhila-Za-Tawhiyd-01-30'>Umuhimu Na Fadhila Za Tawhiyd</a>
 
-❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>
-❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Masharti Ya Shahaad Na Mambo Yake</a>  
+<a href='https://telegra.ph/Majina-Ya-Allaah-Na-Sifa-Zake-AL-HAKAM-01-31'>Majina Ya Allaah Na Sifa Zake: AL-HAKAM</a>
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 ❖ <a href='https://telegra.ph/Duaa-Na-Adkhaar-01-24'>Dua Na Adkhaar 👅</a>
 
+<a href='https://telegra.ph/Duaa-Za-Nabiy-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%A2%D9%84%D9%87-%D9%88%D8%B3%D9%84%D9%85-01-27'>Du'aa Za Nabiy (صلى الله عليه وآله وسلم)</a>
        
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
 
