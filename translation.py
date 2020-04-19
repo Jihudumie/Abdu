@@ -8,7 +8,7 @@ Gusa Command Unayo itaka</b>
 
 /quranswahili | /tafsir
 
-/tawhiyd | /masomomhimu
+/masomomhimu
 
 /nassor_bachu |  /mselemu
 
@@ -34,7 +34,7 @@ Gusa Command Unayo itaka</b>
 
 /nguzozaswalah   |   /fiqh
 
-/lugha | /udhu | /histolia 
+/lugha | /udhu | /history
 
 /videozadawla1   |   /swalah
 
@@ -68,7 +68,7 @@ Gusa Command Unayo itaka</b>
 
 /ramadhan  |   /mawaidha
 
-/bm  |   /pdf | /histolia
+/bm  |   /pdf | 
 
 /upload ⬆️   |   /tafuta 🔍 """
     HAMIS_MAJIBU = "nina /hamis jaribu kujifunza."
@@ -78,7 +78,7 @@ Gusa Command Unayo itaka</b>
 <b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b> 
 
 
-❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Fiqh-Ibaadah-01-24'>FIQH</a>.
+❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>FIQH</a>.
 
 ❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>.  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.
 
@@ -89,8 +89,7 @@ href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>. ❖ <a
 href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
 
 ❖ <a
-href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>  
-
+href='https://telegra.ph/Hajj-01-27'>Hajj</a>. ❖ <a href='https://telegra.ph/Swalah-01-27'>Swalah</a>. ❖ <a href='https://telegra.ph/Janaaiz-01-27'>https://telegra.ph/Janaaiz-01-27</a>.
 
 
 
@@ -138,5 +137,10 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+❖ <b><a href=''https://telegra.ph/Zakaah-Swadaqah-01-27>Zakaah-Swadaqah</a></b>
+
+ <a href='https://telegra.ph/Kutoa-Zakaah-01-31'>Kutoa Zakaah</a>.
+
+
 """
-    HISTORY_ISLAMIC = "Gusa hapo 👇\n\n<a href='https://islamichistory.org/'>Islamic History</a>"
+    HISTORY_ISLAMIC = "Gusa hapo👇\n\n<a href='https://islamichistory.org/'>Islamic History</a>"
