@@ -48,10 +48,9 @@ async def hamis(bot, update):
         text=Translation.HAMIS_MAJIBU,
         parse_mode="html",
         reply_to_message_id=update.message_id,
-        disable_web_page_preview=True
     )
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["elimu", "msaada"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["elimu"]))
 async def elimu(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/elimu")
