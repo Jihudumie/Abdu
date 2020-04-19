@@ -31,7 +31,7 @@ def GetExpiryDate(chat_id):
     return expires_at
 
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["help", "about"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["help", "msaada"]))
 async def help_user(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/help")
@@ -56,7 +56,7 @@ async def hamis(bot, update):
         disable_web_page_preview=True
     )
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["elimu", "about"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["elimu", "msaada"]))
 async def elimu(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/elimu")
