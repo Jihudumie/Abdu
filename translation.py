@@ -101,6 +101,11 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 ❖ <a href='https://telegra.ph/Duaa-Na-Adkhaar-01-24'>Dua Na Adkhaar 👅</a>
 
 <a href='https://telegra.ph/Duaa-Za-Nabiy-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%A2%D9%84%D9%87-%D9%88%D8%B3%D9%84%D9%85-01-27'>Du'aa Za Nabiy (صلى الله عليه وآله وسلم)</a>
+
+<a href='https://telegra.ph/Ruqyah-Kinga-Na-Tiba-Katika-Shariyah-01-27'>Ruqyah: Kinga Na Tiba Katika Shariy'ah</a>
+
+<a href='https://telegra.ph/Duaa-Za-Ruqyah-Kinga-Faida-Na-Sharh-Zake-01-27'>Du’aa Za Ruqyah (Kinga): Faida Na Sharh Zake</a>
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
        
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
 
