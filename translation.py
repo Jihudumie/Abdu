@@ -80,16 +80,17 @@ Gusa Command Unayo itaka</b>
 
 ❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>FIQH</a>.
 
-❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>.  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.
-
-❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.  
+❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>.  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.  
 
 ❖ <a 
 href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>. ❖ <a
-href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
+href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>.  ❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
 
 ❖ <a
-href='https://telegra.ph/Hajj-01-27'>Hajj</a>. ❖ <a href='https://telegra.ph/Swalah-01-27'>Swalah</a>. ❖ <a href='https://telegra.ph/Janaaiz-01-27'>https://telegra.ph/Janaaiz-01-27</a>.
+href='https://telegra.ph/Hajj-01-27'>Hajj</a>. ❖ <a href='https://telegra.ph/Swalah-01-27'>Swalah</a>.
+
+
+❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.
 
 
 
