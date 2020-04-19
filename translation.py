@@ -135,4 +135,4 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 """
-ISLAMIC_HISTORY = "<a href='https://islamichistory.org/'>Islamic History</a>"
+HISTORY_ISLAMIC = "<a href='https://islamichistory.org/'>Islamic History</a>"
