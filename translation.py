@@ -1,6 +1,9 @@
 class Translation(object):
     START_TEXT = "Hello,"
-    HELP_USER = """Gusa Command Unayo itaka
+    HELP_USER = """
+<b>Hapa nisehemu Utakayo pata Command Zoote kwa Malamoja
+Gusa Command Unayo itaka</b>
+      👇👇👇
 
 
 /quranswahili | /tafsir
@@ -135,4 +138,4 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 """
-    HISTORY_ISLAMIC = "<a href='https://islamichistory.org/'>Islamic History</a>"
+    HISTORY_ISLAMIC = "Gusa hapo 👇\n\n<a href='https://islamichistory.org/'>Islamic History</a>"
