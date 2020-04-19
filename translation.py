@@ -82,7 +82,7 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
 
 📖 <a href='https://telegra.ph/Sifa-Ya-Swalah-03-08'>Sifa Ya Swalah Ya Mtume (Swalla Allaahu 'Alayhi Wa Aalihi Wa Sallam)</a>
 
-📖 <a href='Swalaah – Kuwajibika Na Fadhila Zake'>Swalaah – Kuwajibika Na Fadhila Zake</a>
+📖 <a href='https://telegra.ph/Swalaah--Kuwajibika-Na-Fadhila-Zake-01-27-2'>Swalaah – Kuwajibika Na Fadhila Zake</a>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
    ❖ <a
