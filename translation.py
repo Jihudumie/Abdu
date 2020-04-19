@@ -24,9 +24,7 @@ Gusa Command Unayo itaka</b>
 
 /yalpstore  |   /samiri
 
-/tahadhari  |   /uchumi
-
-/tabianjema  |   /email
+/tahadhari  | /email
 
 /videozadowla2 |    /manhaj
 
@@ -34,13 +32,13 @@ Gusa Command Unayo itaka</b>
 
 /nguzozaswalah   |   /fiqh
 
-/lugha | /udhu | /history
+/lugha |/udhu | /history
 
 /videozadawla1   |   /swalah
 
 /bomulasimu   |   /elimu
 
-/fadhilaislaam   |   /dua
+/fadhilaislaam   |
 
 /jihadpdf   |   /ruqya
 
@@ -89,10 +87,12 @@ href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Sw
 ❖ <a
 href='https://telegra.ph/Hajj-01-27'>Hajj</a>.   ❖ <a href='https://telegra.ph/Swalah-01-27'>Swalah</a>.
 
-
 ❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.
 
+<a href='https://wanachuoni.com/sidebar_menu_list/aqiydah/'> Category: ´Aqiydah
 
+</a>.
+   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
 📖 <a 
