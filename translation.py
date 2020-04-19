@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = "Hello,"
     HELP_USER = """
-<b>Hapa nisehemu Utakayo pata Command Zoote kwa Malamoja
+<b>List ya Command Zangu Zoote
 Gusa Command Unayo itaka</b>
       👇👇👇
 
@@ -120,6 +120,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 <a href='https://telegra.ph/Duaa-Za-Ruqyah-Kinga-Faida-Na-Sharh-Zake-01-27'>Du’aa Za Ruqyah (Kinga): Faida Na Sharh Zake</a>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
        
+
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
 
 ✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
