@@ -69,7 +69,7 @@ Gusa Command Unayo itaka</b>
 /bm  |   /pdf | 
 
 /upload ⬆️   |   /tafuta 🔍 """
-    HAMIS_MAJIBU = "nina /hamis jaribu kujifunza."
+    HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
 
 
