@@ -81,6 +81,16 @@ class Translation(object):
 
 ❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.  
 
+❖ <a 
+href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>. ❖ <a
+href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
+
+❖ <a
+href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>  
+
+
+
+
 
 📖 <a 
 href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
@@ -123,15 +133,5 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-
-❖ <a 
-href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN 🌙</a>
-
-❖ <a
-href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>Swahiyh Fiqhis-Sunnah</a>  
-
-❖ <a
-href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>
 
 """
