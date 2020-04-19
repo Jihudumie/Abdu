@@ -84,10 +84,10 @@ Gusa Command Unayo itaka</b>
 
 ❖ <a 
 href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>. ❖ <a
-href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>.  ❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
+href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>.     ❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
 
 ❖ <a
-href='https://telegra.ph/Hajj-01-27'>Hajj</a>. ❖ <a href='https://telegra.ph/Swalah-01-27'>Swalah</a>.
+href='https://telegra.ph/Hajj-01-27'>Hajj</a>.   ❖ <a href='https://telegra.ph/Swalah-01-27'>Swalah</a>.
 
 
 ❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.
