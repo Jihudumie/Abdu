@@ -8,7 +8,7 @@ Gusa Command Unayo itaka</b>
 
 /quranswahili | /tafsir
 
-/masomomhimu
+/masomomhimu | /udhu 
 
 /nassor_bachu |  /mselemu
 
