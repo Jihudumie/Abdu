@@ -6,72 +6,78 @@ Gusa Command Unayo itaka</b>
       👇👇👇
 
 
-1. /quranswahili  2./tafsir
+1. /quranswahili  2. /tafsir
 
-*3.* /Juzuu
+3. /Juzuu 4. /quran  
+￣￣￣￣￣￣￣￣￣
+ 
+
+
+1. /nassor_bachu  2. /mselemu
+
+3. /ilunga   4. /ibrahim_rogo
+
+5. /samiri  6./abismayl
+
+7. /rogo 8.
 ￣￣￣￣￣￣￣￣￣
 
-/masomomhimu | /udhu 
 
-/nassor_bachu |  /mselemu
 
-/mazoezi  |   /kuogelea
+1. /email 3. /browser
 
-/browser  |   /ilunga
+3. /fakenumber 4. /update
 
-/ibrahim_rogo  |   /stooapk
+5. /yalpstore 6. /tahadhari
 
-/fakenumber  |   /update
+7. /stker 8. /stooapk
 
-/mashartiyashahaad
+9. /vpn 10. /upload ⬆️  
 
-/yalpstore  |   /samiri
+11. /tafuta 🔍   
+￣￣￣￣￣￣￣￣￣
 
-/tahadhari  | /email
 
-/videozadowla2 
+1. /videozadowla2 
 
-/videozadawla3  |  /aqiydah
+2. /videozadawla3 
 
-/nguzozaswalah   |   /fiqh
+3. /mazoezi 4. /kuogelea
 
-/lugha |/udhu | /history
+5. /videozadawla1 6. /bomulasimu
 
-/videozadawla1   |   /swalah
+7. /jihadpdf  8. /jihadi 💣  
 
-/bomulasimu   |   /elimu
+9. /bm   10. /kujitolea 
 
-/fadhilaislaam   |
+11. /dola 🔑
+￣￣￣￣￣￣￣￣￣
 
-/jihadpdf   |   /ruqya
 
-/masomomhimu
 
-/stker    |     /tawhiyd
+1. /elimu 2. /ruqya
 
-/nassor_bacho | /history
+3. /masomomhimu 4. /udhu
 
-/vpn    |    /jihadi 💣
+5. /mashartiyashahaad
 
-/aqiydtw  |   /abismayl
+6. /lugha 7. /history
 
-/dunia  |  /afya  |  /rogo
+8. /fadhilaislaam 9. /aqiydtw
 
-/daiya  |   /tafsir  |   /fathu
+10. /dunia  11. /afya
 
-/quran   |  /quranswahili 📖
+12. /daiya   13. /tafsir 
 
-/sira  |   /swahili
+14. /sira   15. /swahili
 
-/kujitolea  |   /dola 🔑
+16. /audio    17. /mauti 
 
-/audio  |   /mauti 
+18. /ramadhan  19. /mawaidha
 
-/ramadhan  |   /mawaidha
-
-/bm  |   /pdf | 
-
-/upload ⬆️   |   /tafuta 🔍 """
+20. /pdf    21. /fathu 
+￣￣￣￣￣￣￣￣￣
+"""
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
     ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
