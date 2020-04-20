@@ -72,3 +72,15 @@ async def history_islamic(bot, update):
         parse_mode="html",
         reply_to_message_id=update.message_id
     )
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["juzuu"]))
+async def juzuuzote(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/juzuu")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.JUZUUZOTE,
+        parse_mode="html",
+disable_web_page_preview=True,
+        reply_to_message_id=update.message_id
+    )
