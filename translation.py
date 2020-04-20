@@ -8,7 +8,8 @@ Gusa Command Unayo itaka</b>
 
 1. /quranswahili  2./tafsir
 
-**3.** /Juzuu
+*3.* /Juzuu
+￣￣￣￣￣￣￣￣￣
 
 /masomomhimu | /udhu 
 
