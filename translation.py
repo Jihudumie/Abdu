@@ -89,10 +89,8 @@ href='https://telegra.ph/Hajj-01-27'>Hajj</a>.   ❖ <a href='https://telegra.ph
 
 ❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.
 
-<a href='https://wanachuoni.com/sidebar_menu_list/aqiydah/'> Category: ´Aqiydah
-
-</a>.
-   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+<a href='https://wanachuoni.com/sidebar_menu_list/aqiydah/'> Category: ´Aqiydah</a>.
+▬▬▬▬▬▬▬▬▬▬
 
 
 📖 <a 
@@ -101,7 +99,7 @@ href='https://telegra.ph/Swalah-01-27'>SWALAH 🕯</a>
 📖 <a href='https://telegra.ph/Sifa-Ya-Swalah-03-08'>Sifa Ya Swalah Ya Mtume (Swalla Allaahu 'Alayhi Wa Aalihi Wa Sallam)</a>
 
 📖 <a href='https://telegra.ph/Swalaah--Kuwajibika-Na-Fadhila-Zake-01-27-2'>Swalaah – Kuwajibika Na Fadhila Zake</a>
-   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬
 
    ❖ <a
 href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
@@ -109,7 +107,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 <a href='https://telegra.ph/Umuhimu-Na-Fadhila-Za-Tawhiyd-01-30'>Umuhimu Na Fadhila Za Tawhiyd</a>
 
 <a href='https://telegra.ph/Majina-Ya-Allaah-Na-Sifa-Zake-AL-HAKAM-01-31'>Majina Ya Allaah Na Sifa Zake: AL-HAKAM</a>
-   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬
 
 ❖ <a href='https://telegra.ph/Duaa-Na-Adkhaar-01-24'>Dua Na Adkhaar 👅</a>
 
@@ -118,7 +116,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 <a href='https://telegra.ph/Ruqyah-Kinga-Na-Tiba-Katika-Shariyah-01-27'>Ruqyah: Kinga Na Tiba Katika Shariy'ah</a>
 
 <a href='https://telegra.ph/Duaa-Za-Ruqyah-Kinga-Faida-Na-Sharh-Zake-01-27'>Du’aa Za Ruqyah (Kinga): Faida Na Sharh Zake</a>
-   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬
        
 
 <b>RIZKI 🌽 NA UCHUMI ⛵️</b>
@@ -136,7 +134,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MFANYAKAZI-MUISLAM-09-12'>SIFA NZURI ZA MFANYAKAZI MUISLAM</a></i>
 
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
-   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬
 
 ❖ <b><a href='https://telegra.ph/Zakaah-Swadaqah-01-27'>Zakaah-Swadaqah</a></b>
 
