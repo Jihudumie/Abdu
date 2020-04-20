@@ -101,7 +101,7 @@ href='https://telegra.ph/Hajj-01-27'>Hajj</a>.   ❖ <a href='https://telegra.ph
 
 ❖ <a href='https://telegra.ph/MASHARTI-YA-KUKUBALIWA-SHAHADA-LA-ILAHA-ILA-LLAH-09-12'>Ⓜasharti Ya Shahaad Na Mambo Yake</a>.
 
-<a href='https://wanachuoni.com/sidebar_menu_list/aqiydah/'> Category: ´Aqiydah</a>.
+❖ <a href='https://wanachuoni.com/sidebar_menu_list/aqiydah/'> Category: ´Aqiydah</a>.
 ▬▬▬▬▬▬▬▬▬▬
 
 
