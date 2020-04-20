@@ -81,6 +81,5 @@ async def juzuuzote(bot, update):
         chat_id=update.chat.id,
         text=Translation.JUZUUZOTE,
         parse_mode="html",
-disable_web_page_preview=True,
         reply_to_message_id=update.message_id
     )
