@@ -70,6 +70,7 @@ Gusa Command Unayo itaka</b>
 
 /upload ⬆️   |   /tafuta 🔍 """
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
+    JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
     ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
 
 
