@@ -5,14 +5,14 @@ class Translation(object):
 Gusa Command Unayo itaka</b>
       👇👇👇
 
-
+<b>Qur'ani Tukufu</b>
 1. /quranswahili  2. /tafsir
 
 3. /Juzuu 4. /quran  
 ￣￣￣￣￣￣￣￣￣
  
 
-
+<b>Masheykhe Wa Jihaad</b>
 1. /nassor_bachu  2. /mselemu
 
 3. /ilunga   4. /ibrahim_rogo
@@ -23,7 +23,7 @@ Gusa Command Unayo itaka</b>
 ￣￣￣￣￣￣￣￣￣
 
 
-
+<b>Teknolojia</b>
 1. /email 3. /browser
 
 3. /fakenumber 4. /update
@@ -37,7 +37,7 @@ Gusa Command Unayo itaka</b>
 11. /tafuta 🔍   
 ￣￣￣￣￣￣￣￣￣
 
-
+<b>Islamic Start</b>
 1. /videozadowla2 
 
 2. /videozadawla3 
@@ -54,7 +54,7 @@ Gusa Command Unayo itaka</b>
 ￣￣￣￣￣￣￣￣￣
 
 
-
+<b>I Love Islam</b>
 1. /elimu 2. /ruqya
 
 3. /masomomhimu 4. /udhu
