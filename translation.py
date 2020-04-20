@@ -6,9 +6,9 @@ Gusa Command Unayo itaka</b>
       👇👇👇
 
 <b>Qur'ani Tukufu</b>
-1. /quranswahili  2. /tafsir
+1. /quranswahili   2. /tafsir
 
-3. /Juzuu 4. /quran  
+3. /Juzuu   4. /quran  
 ￣￣￣￣￣￣￣￣￣
  
 
@@ -24,15 +24,15 @@ Gusa Command Unayo itaka</b>
 
 
 <b>Teknolojia</b>
-1. /email 3. /browser
+1. /email   3. /browser
 
-3. /fakenumber 4. /update
+3. /fakenumber  4. /update
 
-5. /yalpstore 6. /tahadhari
+5. /yalpstore  6. /tahadhari
 
-7. /stker 8. /stooapk
+7. /stker  8. /stooapk
 
-9. /vpn 10. /upload ⬆️  
+9. /vpn  10. /upload ⬆️  
 
 11. /tafuta 🔍   
 ￣￣￣￣￣￣￣￣￣
@@ -44,7 +44,7 @@ Gusa Command Unayo itaka</b>
 
 3. /videozadawla1
 
-4. /kuogelea 5. /dola 🔑
+4. /kuogelea  5. /dola 🔑
 
 6. /mazoezi   7. /bomulasimu
 
@@ -55,15 +55,15 @@ Gusa Command Unayo itaka</b>
 
 
 <b>I Love Islam</b>
-1. /elimu 2. /ruqya
+1. /elimu  2. /ruqya
 
-3. /masomomhimu 4. /udhu
+3. /masomomhimu  4. /udhu
 
 5. /mashartiyashahaad
 
-6. /lugha 7. /history
+6. /lugha   7. /history
 
-8. /fadhilaislaam 9. /aqiydtw
+8. /fadhilaislaam  9. /aqiydtw
 
 10. /dunia  11. /afya
 
