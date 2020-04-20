@@ -6,7 +6,9 @@ Gusa Command Unayo itaka</b>
       👇👇👇
 
 
-/quranswahili | /tafsir
+1. /quranswahili  2./tafsir
+
+**3.** /Juzuu
 
 /masomomhimu | /udhu 
 
@@ -26,7 +28,7 @@ Gusa Command Unayo itaka</b>
 
 /tahadhari  | /email
 
-/videozadowla2 |    /manhaj
+/videozadowla2 
 
 /videozadawla3  |  /aqiydah
 
