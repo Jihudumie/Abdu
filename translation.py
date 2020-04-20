@@ -19,7 +19,7 @@ Gusa Command Unayo itaka</b>
 
 5. /samiri  6./abismayl
 
-7. /rogo 8.
+7. /rogo 
 ￣￣￣￣￣￣￣￣￣
 
 
@@ -42,15 +42,15 @@ Gusa Command Unayo itaka</b>
 
 2. /videozadawla3 
 
-3. /mazoezi 4. /kuogelea
+3. /videozadawla1
 
-5. /videozadawla1 6. /bomulasimu
+4. /kuogelea 5. /dola 🔑
 
-7. /jihadpdf  8. /jihadi 💣  
+6. /mazoezi   7. /bomulasimu
 
-9. /bm   10. /kujitolea 
+8. /jihadpdf  9. /jihadi 💣  
 
-11. /dola 🔑
+10. /bm   11. /kujitolea 
 ￣￣￣￣￣￣￣￣￣
 
 
