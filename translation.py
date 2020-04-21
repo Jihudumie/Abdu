@@ -82,7 +82,7 @@ Gusa Command Unayo itaka</b>
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
     ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
 
-<img src="https://static.al-feqh.com/images/sw/small/2018-05/04-04.jpg" alt="Zaaka ya bidhaa za biashara" title="Zaaka ya bidhaa za biashara" class="img-fluid ">
+<u>uhalifu wa kibinadamu</u>
 
 
 
