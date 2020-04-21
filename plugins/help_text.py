@@ -39,7 +39,7 @@ async def help_user(bot, update):
     )
 
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["khamis, "hamis"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["khamis", "hamis"]))
 async def hamis(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/khamis")
