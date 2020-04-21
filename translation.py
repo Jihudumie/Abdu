@@ -1,11 +1,11 @@
 class Translation(object):
     START_TEXT = "Hello,"
     HELP_USER = """
-<b>List ya Command Zangu Zoote
-Gusa Command Unayo itaka</b>
+<p><b>List ya Command Zangu Zoote
+Gusa Command Unayo itaka</b></p>
       👇👇👇
 
-<b>Qur'ani Tukufu</b>
+<u><b>Qur'ani Tukufu</b></u>
 1. /quranswahili   2. /tafsir
 
 3. /Juzuu   4. /quran  
@@ -75,14 +75,13 @@ Gusa Command Unayo itaka</b>
 
 18. /ramadhan  19. /mawaidha
 
-20. /pdf    21. /fathu 
-￣￣￣￣￣￣￣￣￣
+<u>20. /pdf    21. /fathu</u>
 """
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
     ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
+<p><br></p><hr><p><br></p>
 
-<u>uhalifu wa kibinadamu</u>
 
 
 
@@ -136,7 +135,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 ▬▬▬▬▬▬▬▬▬▬
        
 
-<b>RIZKI 🌽 NA UCHUMI ⛵️</b>
+<h1>RIZKI 🌽 NA UCHUMI ⛵️</h1>
 
 ✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
 
