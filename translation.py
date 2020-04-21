@@ -85,7 +85,7 @@ Gusa Command Unayo itaka</b>
 
 <b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b> 
 
-Mtume amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).
+<strong>Mtume amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).</strong>
 
 
 ❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>FIQH</a>.
