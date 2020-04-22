@@ -13,13 +13,13 @@ Gusa Command Unayo itaka</b>
  
 
 <b><u>Masheykhe Wa Jihaad</u></b>
-1. <pre>/nassor_bachu</pre>  2. <pre>/mselemu</pre>
+1. /ilunga  2. /mselemu
 
-3. <pre>/ilunga</pre>   4. <pre>/ibrahim_rogo</pre>
+3. /nassor_bachu   
 
-5. <pre>/samiri</pre>  6.<pre>/abismayl</pre>
+4. /samiri  5./abismayl
 
-7. <pre>/rogo</pre> 
+6. /rogo 7. /ibrahim_rogo
 
 
 
@@ -36,6 +36,7 @@ Gusa Command Unayo itaka</b>
 
 11. /tafuta 🔍   
 
+
 <b><u>Islamic Start</u></b>
 1. /videozadowla2 
 
@@ -50,6 +51,8 @@ Gusa Command Unayo itaka</b>
 8. /jihadpdf  9. /jihadi 💣  
 
 10. /bm   11. /kujitolea 
+
+12. /audio
 
 
 
@@ -70,21 +73,21 @@ Gusa Command Unayo itaka</b>
 
 14. /sira   15. /swahili
 
-16. /audio    17. /mauti 
+16. /fathu    17. /mauti 
 
 18. /ramadhan  19. /mawaidha
 
-20. /pdf    21. /fathu
+20. /pdf
 """
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
-    ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
+    ELIMU_TXT = """<i><b>Kutafuta Elimu Ni Wajibu</b></i>
 
 
 
 
 
-<h3><b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b><h3>
+<b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b>
 
 <pre>Mtume amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).</pre>
 
@@ -134,7 +137,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 ▬▬▬▬▬▬▬▬▬▬
        
 
-<h1>RIZKI 🌽 NA UCHUMI ⛵️</h1>
+<b>RIZKI 🌽 NA UCHUMI ⛵️</b>
 
 ✿ <i><a href='https://telegra.ph/UTANGULIZI-09-12'>UTANGULIZI</a></i>
 
