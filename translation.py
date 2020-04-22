@@ -88,7 +88,7 @@ Gusa Command Unayo itaka</u></b>
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
     ELIMU_TXT = """<i><b>Kutafuta Elimu Ni Wajibu</b></i>
 
-<u><b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b></u>
+<b><u><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></u></b>
 
 <pre>Mtume ﷺ amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).</pre>
 
