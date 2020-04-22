@@ -36,11 +36,11 @@ Gusa Command Unayo itaka</b>
 
 
 <b><u>Islamic Start</u></b>
-1. /videozadowla2 
+1. /videozadawla1
 
-2. /videozadawla3 
+2. /videozadowla2
 
-3. /videozadawla1
+3. /videozadawla3
 
 4. /kuogelea  5. /dola 🔑
 
@@ -91,8 +91,10 @@ Gusa Command Unayo itaka</b>
 ❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>. ❖ <a href='https://telegra.ph/Jamii-04-21'>Jamii</a>   
 
 ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.
+
 ❖ <a 
 href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>.  ❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
+
 ❖ <a
 href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>.
 
