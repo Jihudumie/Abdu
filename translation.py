@@ -1,14 +1,16 @@
 class Translation(object):
     START_TEXT = "Hello,"
     HELP_USER = """
-<b>List ya Command Zangu Zoote
-Gusa Command Unayo itaka</b>
+<b><u>List ya Command Zangu Zoote
+Gusa Command Unayo itaka</u></b>
       👇👇👇
 
 <b><u>Qur'ani Tukufu</u></b>
-1. /quranswahili   2. /tafsir
+1. /quran   2. /Juzuu
 
-3. /Juzuu   4. /quran  
+3. /tafsir 
+
+4. /quranswahili  
  
 
 <b><u>Masheykhe Wa Jihaad</u></b>
@@ -24,15 +26,19 @@ Gusa Command Unayo itaka</b>
 <b><u>Teknolojia</u></b>
 1. /email   3. /browser
 
-3. /fakenumber  4. /update
+3. /fakenumber  
 
-5. /yalpstore  6. /tahadhari
+4. /update
+
+5. /yalpstore  
+
+6. /tahadhari
 
 7. /stker  8. /stooapk
 
 9. /vpn  10. /upload ⬆️  
 
-11. /tafuta 🔍   
+11. /tafuta 🔍  
 
 
 <b><u>Islamic Start</u></b>
@@ -150,7 +156,7 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MFANYAKAZI-MUISLAM-09-12'>SIFA NZURI ZA MFANYAKAZI MUISLAM</a></i>
 
-✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a>/i>
+✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
 ▬▬▬▬▬▬▬▬▬▬ 
   
 
