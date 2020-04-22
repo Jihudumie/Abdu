@@ -59,40 +59,42 @@ Gusa Command Unayo itaka</b>
 <b><u>I Love Islam</u></b>
 1. /elimu  2. /ruqya
 
-3. /masomomhimu  4. /udhu
+3. /masomomhimu  
 
-5. /mashartiyashahaad
+4. /mashartiyashahaad
 
+5. /fadhilaislaam 
+ 
 6. /lugha   7. /history
 
-8. /fadhilaislaam  9. /aqiydtw
+8. /mawaidha 9. /pdf 
 
-10. /dunia  11. /afya
+10. /aqiydtw 11. /udhu
 
-12. /daiya   13. /tafsir 
+12. /dunia  13. /afya
 
-14. /sira   15. /swahili
+14. /daiya   15. /tafsir 
 
-16. /fathu    17. /mauti 
+16. /sira   17. /swahili
 
-18. /ramadhan  19. /mawaidha
+18. /fathu    19. /mauti 
 
-20. /pdf
+120. /ramadhan  
+
 """
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
-    ELIMU_TXT = """<i><b>Kutafuta Elimu Ni Wajibu</b></i>
+    ELIMU_TXT = """<i><b>Kutafuta Elimu Ni Wajibu/b></
 
 
 
 
 
-<b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b>
+<b><a href='https://telegr a.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b>
 
 <pre>Mtume amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).</pre>
 
-
-❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>FIQH</a>.
+❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/ ahiyh-Fiqhis-Sunnah-01-27'>FIQH</a>.
 
 ❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>. ❖ <a href='https://telegra.ph/Jamii-04-21'>Jamii</a>   
 
@@ -153,9 +155,9 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 
 ✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MFANYAKAZI-MUISLAM-09-12'>SIFA NZURI ZA MFANYAKAZI MUISLAM</a></i>
 
-✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a></i>
-▬▬▬▬▬▬▬▬▬▬
-
+✿ <i><a href='https://telegra.ph/SIFA-NZURI-ZA-MWAJIRI-MUISLAM-09-12'>SIFA NZURI ZA MWAJIRI MUISLAM</a>/i>
+▬▬▬▬▬▬▬▬▬▬ 
+  
 ❖ <b><a href='https://telegra.ph/Zakaah-Swadaqah-01-27'>Zakaah-Swadaqah</a></b>
 
  <a href='https://telegra.ph/Kutoa-Zakaah-01-31'>Kutoa Zakaah</a>.
@@ -163,3 +165,4 @@ href='https://telegra.ph/Tawhiyd-01-24'>TAWHIYD 🎯</a>
 
 """
     HISTORY_ISLAMIC = "Gusa hapo👇\n\n<a href='https://islamichistory.org/'>Islamic History</a>"
+
