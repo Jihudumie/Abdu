@@ -13,13 +13,13 @@ Gusa Command Unayo itaka</b>
  
 
 <b><u>Masheykhe Wa Jihaad</u></b>
-1. /nassor_bachu  2. /mselemu
+1. <pre>/nassor_bachu</pre>  2. <pre>/mselemu</pre>
 
-3. /ilunga   4. /ibrahim_rogo
+3. <pre>/ilunga</pre>   4. <pre>/ibrahim_rogo</pre>
 
-5. /samiri  6./abismayl
+5. <pre>/samiri</pre>  6.<pre>/abismayl</pre>
 
-7. /rogo 
+7. <pre>/rogo</pre> 
 
 
 
