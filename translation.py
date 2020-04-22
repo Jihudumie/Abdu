@@ -46,13 +46,13 @@ Gusa Command Unayo itaka</b>
 
 4. /kuogelea  5. /dola 🔑
 
-6. /mazoezi   7. /bomulasimu
+6. /mazoezi   7. /audio
 
 8. /jihadpdf  9. /jihadi 💣  
 
 10. /bm   11. /kujitolea 
 
-12. /audio
+12. /bomulasimu
 
 
 
@@ -94,7 +94,9 @@ Gusa Command Unayo itaka</b>
 
 ❖ <a href='https://telegra.ph/Aqiydah-06-21'>🅰QIYDAH</a>.  ❖ <a href='https://telegra.ph/Swahiyh-Fiqhis-Sunnah-01-27'>FIQH</a>.
 
-❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>.  ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.  
+❖ <a href='https://telegra.ph/Manhaj-06-18'>ⓂANHAJ</a>. ❖ <a href='https://telegra.ph/Jamii-04-21'>Jamii</a>   
+
+❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.
 
 ❖ <a 
 href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>.  ❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
