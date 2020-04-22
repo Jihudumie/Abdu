@@ -1,18 +1,18 @@
 class Translation(object):
     START_TEXT = "Hello,"
     HELP_USER = """
-<p><b>List ya Command Zangu Zoote
-Gusa Command Unayo itaka</b></p>
+<b>List ya Command Zangu Zoote
+Gusa Command Unayo itaka</b>
       👇👇👇
 
-<u><b>Qur'ani Tukufu</b></u>
+<b><u>Qur'ani Tukufu</u></b>
 1. /quranswahili   2. /tafsir
 
 3. /Juzuu   4. /quran  
-￣￣￣￣￣￣￣￣￣
+
  
 
-<b>Masheykhe Wa Jihaad</b>
+<b><u>Masheykhe Wa Jihaad</u></b>
 1. /nassor_bachu  2. /mselemu
 
 3. /ilunga   4. /ibrahim_rogo
@@ -20,10 +20,10 @@ Gusa Command Unayo itaka</b></p>
 5. /samiri  6./abismayl
 
 7. /rogo 
-￣￣￣￣￣￣￣￣￣
 
 
-<b>Teknolojia</b>
+
+<b><u>Teknolojia</u></b>
 1. /email   3. /browser
 
 3. /fakenumber  4. /update
@@ -35,9 +35,8 @@ Gusa Command Unayo itaka</b></p>
 9. /vpn  10. /upload ⬆️  
 
 11. /tafuta 🔍   
-￣￣￣￣￣￣￣￣￣
 
-<b>Islamic Start</b>
+<b><u>Islamic Start</u></b>
 1. /videozadowla2 
 
 2. /videozadawla3 
@@ -51,10 +50,10 @@ Gusa Command Unayo itaka</b></p>
 8. /jihadpdf  9. /jihadi 💣  
 
 10. /bm   11. /kujitolea 
-￣￣￣￣￣￣￣￣￣
 
 
-<b>I Love Islam</b>
+
+<b><u>I Love Islam</u></b>
 1. /elimu  2. /ruqya
 
 3. /masomomhimu  4. /udhu
@@ -75,17 +74,17 @@ Gusa Command Unayo itaka</b></p>
 
 18. /ramadhan  19. /mawaidha
 
-<u>20. /pdf    21. /fathu</u>
+20. /pdf    21. /fathu
 """
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
     ELIMU_TXT = """<b>Kutafuta Elimu Ni Wajibu</b>
-<p><br></p><hr><p><br></p>
 
 
 
 
-<b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b> 
+
+<h3><b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b><h3>
 
 <pre>Mtume amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).</pre>
 
