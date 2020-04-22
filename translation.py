@@ -80,9 +80,9 @@ Gusa Command Unayo itaka</b>
 """
     HAMIS_MAJIBU = "https://telegra.ph/i-love-islam-01-24"
     JUZUUZOTE = "https://telegra.ph/Juzuu-ya-1-Hadi-Ya-30-01-22 "    
-    ELIMU_TXT = """<i><b>Kutafuta Elimu Ni Wajibu/b></i>
+    ELIMU_TXT = """<i><b>Kutafuta Elimu Ni Wajibu</b></i>
 
-<b><a href='https://telegr a.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b>
+<u><b><a href='https://telegra.ph/UTANGULIZI-04-18'>UTANGULIZI</a></b></u>
 
 <pre>Mtume ﷺ amesema(Yeyote yule anayekamata njia kutafuta elimu, Allaah Atamrahisishia njia ya peponi).</pre>
 
@@ -93,7 +93,9 @@ Gusa Command Unayo itaka</b>
 ❖ <a href='https://telegra.ph/Tabia-Njema-06-09-2'>TABIA NJEMA</a></a>.
 
 ❖ <a 
-href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>.  ❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
+href='https://telegra.ph/Ramadhaan-Swawm-01-27'>RAMADHAN</a>.  
+
+❖ <a href='https://telegra.ph/Janaaiz-01-27'>Janaaiz</a>.
 
 ❖ <a
 href='https://telegra.ph/Nguzo-Za-Swalaah-Vitendo-Vya-Waajib-Na-Sunnah-Katika-Swalaah-01-27'>NGUZO ZA SWALAH</a>.
