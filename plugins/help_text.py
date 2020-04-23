@@ -84,7 +84,7 @@ async def juzuuzote(bot, update):
         reply_to_message_id=update.message_id
     )
 
-@pyrogram.Client.on_message(pyrogram.Filters.command(["quran", "quranswahili"]))
+@pyrogram.Client.on_message(pyrogram.Filters.command(["quran", "quranswahili", "tafsir"]))
 async def quranswahili(bot, update):
     # logger.info(update)
     TRChatBase(update.from_user.id, update.text, "/quran")
