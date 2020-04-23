@@ -83,3 +83,26 @@ async def juzuuzote(bot, update):
         parse_mode="html",
         reply_to_message_id=update.message_id
     )
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["quran", "quranswahili"]))
+async def quranswahili(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/quran")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.QURAN_SWAHILI,
+        parse_mode="html",
+        reply_to_message_id=update.message_id,
+    )
+
+
+@pyrogram.Client.on_message(pyrogram.Filters.command(["ramadhan"]))
+async def ramadhan(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/ramadhan")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.RAMADHAN,
+        parse_mode="html",
+        reply_to_message_id=update.message_id,
+    )
