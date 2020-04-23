@@ -1,5 +1,6 @@
 class Translation(object):
-    START_TEXT = "Hello,"
+    QURAN_SWAHILI = "https://telegra.ph/Tarjama-Ya-Maana-Ya-AL-QUR-AAN-AL-ADHWIYM-01-26"
+    RAMADHAN = "https://telegra.ph/Ramadhaan-Swawm-01-27"
     HELP_USER = """
 <b><u>List ya Command Zangu Zoote
 Gusa Command Unayo itaka</u></b>
